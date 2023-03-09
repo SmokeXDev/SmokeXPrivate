@@ -1,4 +1,1 @@
-return {
-  "SmokeXDev",
-  "IlIIIllllllIIIlIIlIl"
-}
+return {}
